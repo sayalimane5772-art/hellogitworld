@@ -1,0 +1,13 @@
+Date,Source,Page,Page_Views,Sessions,Avg_Session_Duration_Sec,Bounce_Rate_Pct,Conversions
+2026-09-01,Organic Search,/home,320,180,145,32,18
+2026-09-02,Social Media,/campaign,210,130,95,48,9
+2026-09-03,Direct,/donate,180,105,110,41,15
+2026-09-04,Referral,/about,95,60,80,55,3
+2026-09-05,Organic Search,/education,260,150,135,35,14
+2026-09-06,Social Media,/campaign,230,140,100,46,11
+2026-09-07,Email,/donate,120,75,125,28,10
+2026-09-08,Direct,/home,190,115,115,39,12
+2026-09-09,Organic Search,/donate,310,175,160,30,25
+2026-09-10,Referral,/education,110,68,90,52,4
+2026-09-11,Social Media,/campaign,250,155,105,44,13
+2026-09-12,Email,/donate,145,90,130,27,17
